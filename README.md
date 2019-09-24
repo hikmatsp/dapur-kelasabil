@@ -1,4 +1,4 @@
 Hello World
 ===========
 
-Dapur Kelasabil : http://hikmatsp.github.io/kelasabil/ 
+Selamat Datang di Dapur Kelasabil : http://hikmatsp.github.io/dapur-kelasabil/ 
