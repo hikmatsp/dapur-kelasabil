@@ -1,7 +1,7 @@
-title: Kelasabil
-description: Belajar bersama Abil
+title: Dapur Kelasabil
+description: Sebuah ruang publik Kelasabil bagian belakang dimana para chef berkumpul :D
 google_analytics: 
-show_downloads: false
+show_downloads: true
 theme: jekyll-theme-minimal
 
 gems:
